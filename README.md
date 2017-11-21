@@ -1,6 +1,6 @@
 # Project - *ReactNative-Prework*
 
-**ReactNative-Prework** is an web app that allows a user to add new tweet, like tweet, re-tweet a tweet or delete tweet.
+**ReactNative-Prework** is a website that allows user to add new tweet, like a tweet, re-tweet a tweet or delete a tweet (offline).
 
 Time spent: **10** hours spent in total
 
